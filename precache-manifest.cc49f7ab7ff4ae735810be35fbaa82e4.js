@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef3df8965d6341166ec4e8a186274469",
+    "revision": "779b31b6b6e51781c1756f410eacd904",
     "url": "/vonhoro/index.html"
   },
   {
-    "revision": "86dda4634949054674ac",
-    "url": "/vonhoro/static/css/main.be8f3e9d.chunk.css"
+    "revision": "250d00416e9f877cecf3",
+    "url": "/vonhoro/static/css/main.3bb2f66c.chunk.css"
   },
   {
     "revision": "53a17d9e31401cf85598",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vonhoro/static/js/2.2dcef130.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "86dda4634949054674ac",
-    "url": "/vonhoro/static/js/main.d9354e5f.chunk.js"
+    "revision": "250d00416e9f877cecf3",
+    "url": "/vonhoro/static/js/main.b433893e.chunk.js"
   },
   {
     "revision": "86d820f072bcece55db6",

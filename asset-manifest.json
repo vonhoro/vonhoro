@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vonhoro/static/css/main.be8f3e9d.chunk.css",
-    "main.js": "/vonhoro/static/js/main.d9354e5f.chunk.js",
-    "main.js.map": "/vonhoro/static/js/main.d9354e5f.chunk.js.map",
+    "main.css": "/vonhoro/static/css/main.3bb2f66c.chunk.css",
+    "main.js": "/vonhoro/static/js/main.b433893e.chunk.js",
+    "main.js.map": "/vonhoro/static/js/main.b433893e.chunk.js.map",
     "runtime-main.js": "/vonhoro/static/js/runtime-main.6257effb.js",
     "runtime-main.js.map": "/vonhoro/static/js/runtime-main.6257effb.js.map",
     "static/js/2.2dcef130.chunk.js": "/vonhoro/static/js/2.2dcef130.chunk.js",
     "static/js/2.2dcef130.chunk.js.map": "/vonhoro/static/js/2.2dcef130.chunk.js.map",
     "index.html": "/vonhoro/index.html",
-    "precache-manifest.191e96bbe74dc9f94f20b99b06a62220.js": "/vonhoro/precache-manifest.191e96bbe74dc9f94f20b99b06a62220.js",
+    "precache-manifest.cc49f7ab7ff4ae735810be35fbaa82e4.js": "/vonhoro/precache-manifest.cc49f7ab7ff4ae735810be35fbaa82e4.js",
     "service-worker.js": "/vonhoro/service-worker.js",
-    "static/css/main.be8f3e9d.chunk.css.map": "/vonhoro/static/css/main.be8f3e9d.chunk.css.map",
+    "static/css/main.3bb2f66c.chunk.css.map": "/vonhoro/static/css/main.3bb2f66c.chunk.css.map",
     "static/js/2.2dcef130.chunk.js.LICENSE.txt": "/vonhoro/static/js/2.2dcef130.chunk.js.LICENSE.txt",
     "static/media/All pieces on board.png": "/vonhoro/static/media/All pieces on board.5f426524.png",
     "static/media/Change amount of pieces.png": "/vonhoro/static/media/Change amount of pieces.f37307f1.png",
@@ -67,7 +67,7 @@
   "entrypoints": [
     "static/js/runtime-main.6257effb.js",
     "static/js/2.2dcef130.chunk.js",
-    "static/css/main.be8f3e9d.chunk.css",
-    "static/js/main.d9354e5f.chunk.js"
+    "static/css/main.3bb2f66c.chunk.css",
+    "static/js/main.b433893e.chunk.js"
   ]
 }
